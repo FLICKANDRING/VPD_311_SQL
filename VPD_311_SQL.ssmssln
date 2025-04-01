@@ -9,6 +9,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DDL", "DDL\DDL.ssmssqlproj"
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DML", "..\..\VPD_311_DBMS-master\VPD_311_SQL\DML\DML.ssmssqlproj", "{B8E485B6-43F1-4F9E-AABB-C67DD0153797}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Holidays", "Holidays\Holidays.ssmssqlproj", "{14DA96DA-AF1E-43E1-A389-7D6C35699CF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -18,6 +20,7 @@ Global
 		{ABEB6422-BD5F-43E2-B15C-98FF1974D270}.Default|Default.ActiveCfg = Default
 		{0A2F7C57-571F-46EA-A36E-737711BBD80E}.Default|Default.ActiveCfg = Default
 		{B8E485B6-43F1-4F9E-AABB-C67DD0153797}.Default|Default.ActiveCfg = Default
+		{14DA96DA-AF1E-43E1-A389-7D6C35699CF0}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
